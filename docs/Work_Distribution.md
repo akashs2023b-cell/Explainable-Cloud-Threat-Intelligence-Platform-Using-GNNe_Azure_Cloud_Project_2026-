@@ -1,71 +1,56 @@
 # Work Distribution – Review I
 
-## Project Title
+## Team Members
 
-Explainable Cloud Threat Intelligence Platform Using Graph Neural Networks
-
----
-
-# Team Members
-
-| Student | Registration No. | Responsibilities |
-|----------|------------------|------------------|
-| Akash S | 23BIT0379 | Literature Survey (Papers 1–5), Architecture Diagram, Architecture Description |
-| Varsha K | 23BIT0347 | Literature Survey (Papers 6–10), Abstract, Objectives, Dataset Description, Research Gap Analysis |
-| Mugeshwaran E | 23BIT0307 | Literature Survey (Papers 11–15), Novelty, Proposed Methodology, Conclusion, Documentation Support |
+| Name | Registration Number | Assigned Research Papers | Primary Responsibilities |
+|------|---------------------|--------------------------|--------------------------|
+| Akash S | 23BIT0379 | Papers 1–5 | Project Objectives, Azure Cloud Architecture, Architecture Description, Azure Services Planning |
+| Varsha K | 23BIT0347 | Papers 6–10 | Abstract, Dataset Details, Complete System Architecture, System Workflow Description |
+| Mugeshwaran E | 23BIT0307 | Papers 11–15 | Novelty Summary, Threat Categories, Performance Evaluation Metrics, Final Documentation Review |
 
 ---
 
 # Individual Contributions
 
-## Akash S
+## Akash S (23BIT0379)
 
-### Literature Survey
-- Reviewed and summarized Research Papers 1–5.
-- Identified key findings from the selected papers.
-
-### Architecture
-- Designed the proposed system architecture.
-- Prepared the Azure cloud architecture diagram.
-- Documented the architecture description.
+- Independently studied and analyzed Research Papers 1–5.
+- Prepared the Project Objectives section.
+- Designed the Azure Cloud Architecture (Diagram 1).
+- Wrote the explanation for the Azure Cloud Architecture.
+- Contributed to the Azure Services Planning section.
 
 ---
 
-## Varsha K
+## Varsha K (23BIT0347)
 
-### Literature Survey
-- Reviewed and summarized Research Papers 6–10.
-- Identified research gaps from the surveyed papers.
-
-### Documentation
-- Prepared the Project Abstract.
-- Prepared the Project Objectives.
-- Documented Dataset Details.
-- Assisted in organizing the literature survey document.
+- Independently studied and analyzed Research Papers 6–10.
+- Prepared the Abstract.
+- Prepared the Dataset Details section.
+- Designed the Complete System Workflow Architecture (Diagram 2).
+- Wrote the explanation for the Complete System Workflow Architecture.
 
 ---
 
-## Mugeshwaran E
+## Mugeshwaran E (23BIT0307)
 
-### Literature Survey
-- Reviewed and summarized Research Papers 11–15.
-- Contributed to the research findings.
-
-### Documentation
-- Prepared the Novelty section.
-- Prepared the Proposed Methodology.
-- Prepared the Conclusion.
-- Assisted in formatting and documentation.
+- Independently studied and analyzed Research Papers 11–15.
+- Prepared the Novelty Summary.
+- Prepared the Threat Categories section.
+- Prepared the Performance Evaluation Metrics section.
+- Reviewed and refined the final project documentation for consistency.
 
 ---
 
-# Team Contributions
+# Joint Contributions
 
-All team members jointly contributed to:
+The following activities were carried out collaboratively by all team members:
 
-- Project topic selection
-- Collection of 15 research papers
-- Literature survey discussions
-- Research gap identification
-- Preparation of the Review-I report
-- GitHub repository setup and documentation
+- Selection and finalization of the project topic.
+- Identification of the problem statement and proposed solution.
+- Literature survey and research gap analysis for the individually assigned research papers.
+- Selection of suitable datasets for the proposed system.
+- Discussion and selection of Azure cloud services required for implementation.
+- Review and refinement of the proposed architecture.
+- Preparation and organization of the Review-I report.
+- GitHub repository creation, folder structure setup, and documentation.
