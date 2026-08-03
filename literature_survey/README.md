@@ -5,5 +5,4 @@ This folder contains the literature survey, research gap analysis, and related d
 
 ## Contents
 - Literature Survey Report
-- Research Gap Analysis
-- Research Papers
+- Research Gap Analysis Report
